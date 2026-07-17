@@ -1,0 +1,439 @@
+Component Name,Part Number,Description,Material,Quantity
+2x4 v1,2x4 v1,,Steel,2
+2x4 v1 (2),2x4 v1 (2),,Steel,1
+2x4 v1 (3),2x4 v1 (3),,Steel,1
+2x4 v1 (4),2x4 v1 (4),,Steel,6
+2x4 v1 (5),2x4 v1 (5),,Steel,2
+2x4 v1 (6),2x4 v1 (6),,,2
+Untitled v3,Untitled,,,1
+Base - Quantity 1 v1,carter,STEP AP203,Steel,1
+Right Handle 2 - Quantity 1 v1,poignee droite - facade 2,STEP AP203,Steel,1
+Right Handle 1 - Quantity 1 v1,poignee droite - facade 1,STEP AP203,Steel,1
+Left Handle 2 - Quantity 1 v1,poignee - facade 2 GAUCHE,STEP AP203,Steel,1
+Center Handle Support - Quantity 2 v1 (1),poignee - CENTER,STEP AP203,Steel,1
+Center Handle Support - Quantity 2 v1,poignee - CENTER,STEP AP203,Steel,1
+Left Handle 1 - Quantity 1 v1,poignee - facade 1 - GAUCHE,STEP AP203,Steel,1
+LCD_MSP2807_fusion v2,2.8''LCD_MSP2807,FreeCAD Model,,1
+Board,Board,,,1
+plate and holes,plate and holes,,Steel,1
+silk_upper,silk_upper,,,1
+circle001,circle001,,Steel,1
+circle002,circle002,,Steel,1
+circle003,circle003,,Steel,1
+circle004,circle004,,Steel,1
+border001,border001,,Steel,1
+border002,border002,,Steel,1
+ShapeString101,ShapeString101,,,1
+ShapeString099,ShapeString099,,,1
+ShapeString100,ShapeString100,,,1
+ShapeString104,ShapeString104,,,1
+ShapeString102,ShapeString102,,,1
+ShapeString103,ShapeString103,,,1
+cupper_upper,cupper_upper,,Steel,1
+cupper_bottom,cupper_bottom,,Steel,1
+mask_bottom,mask_bottom,,Steel,1
+silk_bottom,silk_bottom,,,1
+res_silk,res_silk,,Steel,1
+res_silk001,res_silk001,,Steel,1
+res_silk002,res_silk002,,Steel,1
+res_silk003,res_silk003,,Steel,1
+res_silk004,res_silk004,,Steel,1
+res_silk005,res_silk005,,Steel,1
+cap_silk001,cap_silk001,,Steel,1
+cap_silk_up,cap_silk_up,,Steel,1
+cap_silk_dwn,cap_silk_dwn,,Steel,1
+cap_silk002,cap_silk002,,Steel,1
+cap_silk_up001,cap_silk_up001,,Steel,1
+cap_silk_dwn001,cap_silk_dwn001,,Steel,1
+sot23_001,sot23_001,,Steel,1
+sot23_left,sot23_left,,Steel,1
+sot23_right,sot23_right,,Steel,1
+sot23_002,sot23_002,,Steel,1
+sot23_left001,sot23_left001,,Steel,1
+sot23_right001,sot23_right001,,Steel,1
+u2_silk002,u2_silk002,,Steel,1
+sd_silk001,sd_silk001,,Steel,1
+touch,touch,,,1
+line_silk001,line_silk001,,Steel,1
+line_silk002,line_silk002,,Steel,1
+ShapeString109,ShapeString109,,,1
+ShapeString067,ShapeString067,,,1
+ShapeString105,ShapeString105,,,1
+ShapeString106,ShapeString106,,,1
+ShapeString107,ShapeString107,,,1
+ShapeString108,ShapeString108,,,1
+text,text,,,1
+ShapeString114,ShapeString114,,,1
+ShapeString068,ShapeString068,,,1
+ShapeString110,ShapeString110,,,1
+ShapeString111,ShapeString111,,,1
+ShapeString112,ShapeString112,,,1
+ShapeString113,ShapeString113,,,1
+ShapeString118,ShapeString118,,,1
+ShapeString069,ShapeString069,,,1
+ShapeString115,ShapeString115,,,1
+ShapeString116,ShapeString116,,,1
+ShapeString117,ShapeString117,,,1
+ShapeString123,ShapeString123,,,1
+ShapeString070,ShapeString070,,,1
+ShapeString119,ShapeString119,,,1
+ShapeString120,ShapeString120,,,1
+ShapeString121,ShapeString121,,,1
+ShapeString122,ShapeString122,,,1
+ShapeString127,ShapeString127,,,1
+ShapeString071,ShapeString071,,,1
+ShapeString124,ShapeString124,,,1
+ShapeString125,ShapeString125,,,1
+ShapeString126,ShapeString126,,,1
+ShapeString132,ShapeString132,,,1
+ShapeString073,ShapeString073,,,1
+ShapeString128,ShapeString128,,,1
+ShapeString129,ShapeString129,,,1
+ShapeString130,ShapeString130,,,1
+ShapeString131,ShapeString131,,,1
+ShapeString141,ShapeString141,,,1
+ShapeString072,ShapeString072,,,1
+ShapeString133,ShapeString133,,,1
+ShapeString134,ShapeString134,,,1
+ShapeString135,ShapeString135,,,1
+ShapeString136,ShapeString136,,,1
+ShapeString137,ShapeString137,,,1
+ShapeString138,ShapeString138,,,1
+ShapeString139,ShapeString139,,,1
+ShapeString140,ShapeString140,,,1
+ShapeString144,ShapeString144,,,1
+ShapeString074,ShapeString074,,,1
+ShapeString142,ShapeString142,,,1
+ShapeString143,ShapeString143,,,1
+ShapeString147,ShapeString147,,,1
+ShapeString075,ShapeString075,,,1
+ShapeString145,ShapeString145,,,1
+ShapeString146,ShapeString146,,,1
+ShapeString156,ShapeString156,,,1
+ShapeString076,ShapeString076,,,1
+ShapeString148,ShapeString148,,,1
+ShapeString149,ShapeString149,,,1
+ShapeString150,ShapeString150,,,1
+ShapeString151,ShapeString151,,,1
+ShapeString152,ShapeString152,,,1
+ShapeString153,ShapeString153,,,1
+ShapeString154,ShapeString154,,,1
+ShapeString155,ShapeString155,,,1
+ShapeString158,ShapeString158,,,1
+ShapeString077,ShapeString077,,,1
+ShapeString157,ShapeString157,,,1
+ShapeString163,ShapeString163,,,1
+ShapeString078,ShapeString078,,,1
+ShapeString159,ShapeString159,,,1
+ShapeString160,ShapeString160,,,1
+ShapeString161,ShapeString161,,,1
+ShapeString162,ShapeString162,,,1
+ShapeString165,ShapeString165,,,1
+ShapeString079,ShapeString079,,,1
+ShapeString164,ShapeString164,,,1
+ShapeString168,ShapeString168,,,1
+ShapeString080,ShapeString080,,,1
+ShapeString166,ShapeString166,,,1
+ShapeString167,ShapeString167,,,1
+ShapeString171,ShapeString171,,,1
+ShapeString081,ShapeString081,,,1
+ShapeString169,ShapeString169,,,1
+ShapeString170,ShapeString170,,,1
+ShapeString177,ShapeString177,,,1
+ShapeString082,ShapeString082,,,1
+ShapeString172,ShapeString172,,,1
+ShapeString173,ShapeString173,,,1
+ShapeString174,ShapeString174,,,1
+ShapeString175,ShapeString175,,,1
+ShapeString176,ShapeString176,,,1
+ShapeString184,ShapeString184,,,1
+ShapeString083,ShapeString083,,,1
+ShapeString178,ShapeString178,,,1
+ShapeString179,ShapeString179,,,1
+ShapeString180,ShapeString180,,,1
+ShapeString181,ShapeString181,,,1
+ShapeString182,ShapeString182,,,1
+ShapeString183,ShapeString183,,,1
+ShapeString191,ShapeString191,,,1
+ShapeString084,ShapeString084,,,1
+ShapeString185,ShapeString185,,,1
+ShapeString186,ShapeString186,,,1
+ShapeString187,ShapeString187,,,1
+ShapeString188,ShapeString188,,,1
+ShapeString189,ShapeString189,,,1
+ShapeString190,ShapeString190,,,1
+ShapeString196,ShapeString196,,,1
+ShapeString085,ShapeString085,,,1
+ShapeString192,ShapeString192,,,1
+ShapeString193,ShapeString193,,,1
+ShapeString194,ShapeString194,,,1
+ShapeString195,ShapeString195,,,1
+ShapeString222,ShapeString222,,,1
+ShapeString086,ShapeString086,,,1
+ShapeString197,ShapeString197,,,1
+ShapeString198,ShapeString198,,,1
+ShapeString199,ShapeString199,,,1
+ShapeString200,ShapeString200,,,1
+ShapeString201,ShapeString201,,,1
+ShapeString202,ShapeString202,,,1
+ShapeString203,ShapeString203,,,1
+ShapeString204,ShapeString204,,,1
+ShapeString205,ShapeString205,,,1
+ShapeString206,ShapeString206,,,1
+ShapeString207,ShapeString207,,,1
+ShapeString208,ShapeString208,,,1
+ShapeString209,ShapeString209,,,1
+ShapeString210,ShapeString210,,,1
+ShapeString211,ShapeString211,,,1
+ShapeString212,ShapeString212,,,1
+ShapeString213,ShapeString213,,,1
+ShapeString214,ShapeString214,,,1
+ShapeString215,ShapeString215,,,1
+ShapeString216,ShapeString216,,,1
+ShapeString217,ShapeString217,,,1
+ShapeString218,ShapeString218,,,1
+ShapeString219,ShapeString219,,,1
+ShapeString220,ShapeString220,,,1
+ShapeString221,ShapeString221,,,1
+ShapeString224,ShapeString224,,,1
+ShapeString087,ShapeString087,,,1
+ShapeString223,ShapeString223,,,1
+ShapeString226,ShapeString226,,,1
+ShapeString088,ShapeString088,,,1
+ShapeString225,ShapeString225,,,1
+ShapeString228,ShapeString228,,,1
+ShapeString089,ShapeString089,,,1
+ShapeString227,ShapeString227,,,1
+ShapeString230,ShapeString230,,,1
+ShapeString090,ShapeString090,,,1
+ShapeString229,ShapeString229,,,1
+ShapeString232,ShapeString232,,,1
+ShapeString091,ShapeString091,,,1
+ShapeString231,ShapeString231,,,1
+ShapeString234,ShapeString234,,,1
+ShapeString092,ShapeString092,,,1
+ShapeString233,ShapeString233,,,1
+ShapeString236,ShapeString236,,,1
+ShapeString093,ShapeString093,,,1
+ShapeString235,ShapeString235,,,1
+ShapeString238,ShapeString238,,,1
+ShapeString094,ShapeString094,,,1
+ShapeString237,ShapeString237,,,1
+ShapeString240,ShapeString240,,,1
+ShapeString095,ShapeString095,,,1
+ShapeString239,ShapeString239,,,1
+ShapeString242,ShapeString242,,,1
+ShapeString096,ShapeString096,,,1
+ShapeString241,ShapeString241,,,1
+ShapeString244,ShapeString244,,,1
+ShapeString097,ShapeString097,,,1
+ShapeString243,ShapeString243,,,1
+ShapeString246,ShapeString246,,,1
+ShapeString098,ShapeString098,,,1
+ShapeString245,ShapeString245,,,1
+j_silk006,j_silk006,,Steel,1
+components,components,,,1
+SD slot,SD slot,,Steel,1
+contact01,contact01,,Steel,1
+contact02,contact02,,Steel,1
+contact03,contact03,,Steel,1
+contact04,contact04,,Steel,1
+contact05,contact05,,Steel,1
+contact06,contact06,,Steel,1
+contact07,contact07,,Steel,1
+contact08,contact08,,Steel,1
+frame001,frame001,,Steel,1
+contact09,contact09,,Steel,1
+cover,cover,,Steel,1
+contact11,contact11,,Steel,1
+contact10,contact10,,Steel,1
+parts,parts,,,1
+TSSOP16_010,TSSOP16_010,,,1
+TSSOP16_001,TSSOP16_001,,Steel,1
+TSSOP16_002,TSSOP16_002,,Steel,1
+TSSOP16_003,TSSOP16_003,,Steel,1
+TSSOP16_004,TSSOP16_004,,Steel,1
+TSSOP16_005,TSSOP16_005,,Steel,1
+TSSOP16_006,TSSOP16_006,,Steel,1
+TSSOP16_007,TSSOP16_007,,Steel,1
+TSSOP16_008,TSSOP16_008,,Steel,1
+TSSOP16_009,TSSOP16_009,,Steel,1
+ShapeString253,ShapeString253,,,1
+ShapeString066,ShapeString066,,,1
+ShapeString247,ShapeString247,,,1
+ShapeString248,ShapeString248,,,1
+ShapeString249,ShapeString249,,,1
+ShapeString250,ShapeString250,,,1
+ShapeString251,ShapeString251,,,1
+ShapeString252,ShapeString252,,,1
+SMD_resistor001,SMD_resistor001,,,1
+body,body,,Steel,1
+contact1,contact1,,Steel,1
+contact2,contact2,,Steel,1
+label,label,,Steel,1
+Part010,Part010,,,1
+ShapeString256,ShapeString256,,,1
+ShapeString001,ShapeString001,,,1
+ShapeString254,ShapeString254,,,1
+ShapeString255,ShapeString255,,,1
+SMD_resistor002,SMD_resistor002,,,1
+body003,body003,,Steel,1
+contact016,contact016,,Steel,1
+contact017,contact017,,Steel,1
+label001,label001,,Steel,1
+Part013,Part013,,,1
+ShapeString259,ShapeString259,,,1
+ShapeString002,ShapeString002,,,1
+ShapeString257,ShapeString257,,,1
+ShapeString258,ShapeString258,,,1
+SMD_resistor003,SMD_resistor003,,,1
+body004,body004,,Steel,1
+contact018,contact018,,Steel,1
+contact019,contact019,,Steel,1
+label002,label002,,Steel,1
+Part015,Part015,,,1
+ShapeString262,ShapeString262,,,1
+ShapeString003,ShapeString003,,,1
+ShapeString260,ShapeString260,,,1
+ShapeString261,ShapeString261,,,1
+SMD_resistor004,SMD_resistor004,,,1
+body005,body005,,Steel,1
+contact020,contact020,,Steel,1
+contact021,contact021,,Steel,1
+label003,label003,,Steel,1
+Part017,Part017,,,1
+ShapeString265,ShapeString265,,,1
+ShapeString004,ShapeString004,,,1
+ShapeString263,ShapeString263,,,1
+ShapeString264,ShapeString264,,,1
+SMD_resistor005,SMD_resistor005,,,1
+body006,body006,,Steel,1
+contact022,contact022,,Steel,1
+contact023,contact023,,Steel,1
+label004,label004,,Steel,1
+Part019,Part019,,,1
+ShapeString268,ShapeString268,,,1
+ShapeString005,ShapeString005,,,1
+ShapeString266,ShapeString266,,,1
+ShapeString267,ShapeString267,,,1
+SMD_resistor006,SMD_resistor006,,,1
+body007,body007,,Steel,1
+contact024,contact024,,Steel,1
+contact025,contact025,,Steel,1
+label005,label005,,Steel,1
+Part021,Part021,,,1
+ShapeString271,ShapeString271,,,1
+ShapeString006,ShapeString006,,,1
+ShapeString269,ShapeString269,,,1
+ShapeString270,ShapeString270,,,1
+SMD_cap001,SMD_cap001,,Steel,1
+body008,body008,,Steel,1
+contact026,contact026,,Steel,1
+contact027,contact027,,Steel,1
+SMD_cap002,SMD_cap002,,Steel,1
+body002,body002,,Steel,1
+contact014,contact014,,Steel,1
+contact015,contact015,,Steel,1
+SOT23,SOT23,,,1
+ShapeString274,ShapeString274,,,1
+ShapeString064,ShapeString064,,,1
+ShapeString272,ShapeString272,,,1
+ShapeString273,ShapeString273,,,1
+Pin036,Pin036,,Steel,1
+Pin035,Pin035,,Steel,1
+Pin1,Pin1,,Steel,1
+Case,Case,,Steel,1
+SOT23-1,SOT23-1,,,1
+ShapeString278,ShapeString278,,,1
+ShapeString065,ShapeString065,,,1
+ShapeString275,ShapeString275,,,1
+ShapeString276,ShapeString276,,,1
+ShapeString277,ShapeString277,,,1
+Pin039,Pin039,,Steel,1
+Pin038,Pin038,,Steel,1
+Pin037,Pin037,,Steel,1
+Case001,Case001,,Steel,1
+pls-14,pls-14,,Steel,1
+Frame,Frame,,Steel,1
+Pin01,Pin01,,Steel,1
+Pin002,Pin002,,Steel,1
+Pin003,Pin003,,Steel,1
+Pin004,Pin004,,Steel,1
+Pin005,Pin005,,Steel,1
+Pin006,Pin006,,Steel,1
+Pin007,Pin007,,Steel,1
+Pin008,Pin008,,Steel,1
+Pin009,Pin009,,Steel,1
+Pin010,Pin010,,Steel,1
+Pin011,Pin011,,Steel,1
+Pin012,Pin012,,Steel,1
+Pin013,Pin013,,Steel,1
+Pin014,Pin014,,Steel,1
+mask_upper,mask_upper,,Steel,1
+Display and Touchscreen,Display and Touchscreen,,Steel,1
+Display,Display,,Steel,1
+frame,frame,,Steel,1
+metal bandage,metal bandage,,Steel,1
+tft,tft,,Steel,1
+tft_cable,tft_cable,,Steel,1
+light_shelf,light_shelf,,Steel,1
+main_shelf,main_shelf,,Steel,1
+tft_matrix,tft_matrix,,Steel,1
+tft_board,tft_board,,Steel,1
+screen,screen,,Steel,1
+screen_film,screen_film,,Steel,1
+screen_glass,screen_glass,,Steel,1
+Touchscreen,Touchscreen,,Steel,1
+touch_routs,touch_routs,,Steel,1
+touch_protect,touch_protect,,Steel,1
+touch_cable,touch_cable,,Steel,1
+touch_cable_contacts,touch_cable_contacts,,Steel,1
+touch_cable_film,touch_cable_film,,Steel,1
+EC11 Rotary Encoder Dode Switch-15mm v1,Ðý×ª±àÂëÆ÷EC11E-05SW,STEP AP214,Steel,4
+Right Paddle - Quantity 1 v1,Palette_PLUS,STEP AP203,Steel,2
+Right Fixed Part - Quantity 1 v1,shifter-fixedpart right,STEP AP203,Steel,1
+Paddle Support - Quantity 2 v1,Pièce-palette left,STEP AP203,Steel,2
+Left Fixed Part - Quantity 1 v1,Assemblage1-left-fixedpart,STEP AP203,,1
+LEFT shifter-fixedpart-nouvelle 02.step,LEFT shifter-fixedpart-nouvelle 02.step,,,1
+LEFT shifter-fixedpart-nouvelle 03.step,LEFT shifter-fixedpart-nouvelle 03.step,,,1
+LEFT shifter-fixedpart-nouvelle 01.step,LEFT shifter-fixedpart-nouvelle 01.step,,,1
+Component9,Component9,,Steel,4
+12mm x 12mm Tactile switch Button v2,12mm x 12mm Tactile switch,,Steel,1
+External Case,External Case,,Steel,1
+Steel Plate,Steel Plate,,Steel,1
+Push Button,Push Button,,Steel,1
+Component4,Component4,,Steel,4
+lowpoly evans laptop v2,lowpoly evans laptop,,Steel,1
+2x4 v1 (7),2x4 v1 (7),,Steel,2
+Component9,Component9,,Steel,2
+Component10,Component10,,,1
+Component12,Component12,,,1
+Component13,Component13,,,1
+Component12(Mirror),Component12(Mirror),,,1
+Component17,Component17,,,2
+2x4 v1 (8),2x4 v1 (8),,Steel,1
+Component21,Component21,,Steel,1
+Stepper motor NEMA 23HS7430 v1 v1,Stepper motor NEMA 23HS7430,,solidworks materials|Легированная сталь,1
+Stepper motor NEMA 23HS7430 v1 v1 (1),Stepper motor NEMA 23HS7430,,solidworks materials|Легированная сталь,1
+Component22,Component22,,Steel,1
+2x4,2x4,,Steel,1
+AS5600_magnetic_encoder v1,AS5600_magnetic_encoder,,Steel,1
+Component26,Component26,,Steel,1
+Jounral,Jounral,,Steel,2
+Component28,Component28,,Steel,2
+Assembly v2,Product1,CATIA V5 STEP Exchange,,1
+2,2,Chair Leg,,1
+4,4,Roller,,5
+Part1.2,Part1.2,,,5
+Part2.3,Part2.3,,,5
+Part 3,Part 3,,,5
+3,3,Bottom Plate,Steel,1
+5,5,Lever,,1
+9,9,Angle Adjuster Right,Steel,1
+10,10,Angle Adjuster Left,Steel,1
+11,11,Seat,Steel,1
+Part1.2.3,Part1.2.3,,Steel,1
+2x4 v1 (9),2x4 v1 (9),,Steel,2
+2x4 v1 (10),2x4 v1 (10),,Steel,2
+2x4 v1 (11),2x4 v1 (11),,Steel,2
+2x4 v1 (12),2x4 v1 (12),,Steel,2
